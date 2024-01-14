@@ -1,4 +1,4 @@
 baseURL = 'https://mrvfino.github.io/tilblog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '@mrvfino`s TIL Blog'
 theme = 'PaperMod'
