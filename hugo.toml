@@ -2,3 +2,24 @@ baseURL = 'https://mrvfino.github.io/tilblog/'
 languageCode = 'en-us'
 title = '@mrvfino`s TIL Blog'
 theme = 'PaperMod'
+
+[params]
+  author = "Mark Rufino"
+
+  [params.homeInfoParams]
+    Title = "@mrvfino`s TIL Blog"
+    Content = """
+      A mini blog about the new things I learn daily.
+    """
+
+[[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/mrvfino"
+
+
+
+
+
+
+
+  
