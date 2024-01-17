@@ -1,6 +1,6 @@
 +++
 title = 'Day 3: Use eight words or less'
-date = 2024-01-16T23:41:17+08:00
+date = 2024-01-17T23:42:10+08:00
 draft = false
 +++
 
