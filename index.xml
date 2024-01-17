@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@mrvfino`s TIL Blog</title>
+    <link>https://mrvfino.github.io/tilblog/</link>
+    <description>Recent content on @mrvfino`s TIL Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2024 23:42:10 +0800</lastBuildDate>
+    <atom:link href="https://mrvfino.github.io/tilblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 3: Use eight words or less</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day3/</link>
+      <pubDate>Wed, 17 Jan 2024 23:42:10 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day3/</guid>
+      <description>Actually, I already learned this one last year, but re-learned it again while I was reviewing my 2023 journal prior to writing my plans this new year of 2024.
+&amp;ldquo;Use eight words or less&amp;rdquo; basically means that when describing something (like Marvel Snap cards effects in this context) you should only use 8 words or less otherwise people won&amp;rsquo;t read it.
+I learned this from Ben Brode&amp;rsquo;s GDC speech here.</description>
+    </item>
+    <item>
+      <title>Day 2: Adding Transitional Loading Pages for Next.js</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day2/</link>
+      <pubDate>Tue, 16 Jan 2024 00:44:39 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day2/</guid>
+      <description>You just need to create a loading.tsx file in your app/ directory and put your loading UI there!</description>
+    </item>
+    <item>
+      <title>Day 1: Adding Images to a Hugo Post</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day1/</link>
+      <pubDate>Mon, 15 Jan 2024 06:27:41 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day1/</guid>
+      <description>If you&amp;rsquo;re seeing a guy wearing Noggles ⌐◨-◨, that means I did this right!</description>
+    </item>
+    <item>
+      <title>Day 0: Creating a Blog with Hugo</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day0/</link>
+      <pubDate>Sun, 14 Jan 2024 21:15:09 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day0/</guid>
+      <description>I just followed this tutorial here by David Hwang.
+Tomorrow I&amp;rsquo;m going to learn about adding images.</description>
+    </item>
+  </channel>
+</rss>
