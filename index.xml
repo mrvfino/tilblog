@@ -6,8 +6,16 @@
     <description>Recent content on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2024 23:42:10 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 11:46:12 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 4: Terminal Has `whois` Built-in</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day4/</link>
+      <pubDate>Thu, 18 Jan 2024 11:46:12 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day4/</guid>
+      <description>Today I just learned that Terminal has a built-in whois &amp;lt;domain&amp;gt; command that you can use to SAFELY check if a domain of your chosing is available online.
+Why you may ask? Because sites like GoDaddy can allegedly front-run you in registering a domain you want when you look it up in their site.</description>
+    </item>
     <item>
       <title>Day 3: Use eight words or less</title>
       <link>https://mrvfino.github.io/tilblog/docs/day3/</link>
