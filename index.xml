@@ -6,8 +6,16 @@
     <description>Recent content on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2024 23:06:43 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 22:36:48 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 9: Headless CMS Rabbit Hole</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day9/</link>
+      <pubDate>Tue, 23 Jan 2024 22:36:48 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day9/</guid>
+      <description>I&amp;rsquo;ve spent the past few days looking for a headless CMS to include in the LaunchYourList.com template stack. To be honest, this would have been an easier task if I were just building this template for myself! However, since I plan to share it with non-tech friends who will have access to the code itself, I&amp;rsquo;m trying to make it as painless as possible to setup and use.
+Here are the options I have considered so far and my thoughts on each:</description>
+    </item>
     <item>
       <title>Day 8: Spaces in Parent Dir Names Breaks NPM installs</title>
       <link>https://mrvfino.github.io/tilblog/docs/day8/</link>
