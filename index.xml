@@ -6,8 +6,16 @@
     <description>Recent content on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2024 22:36:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 23:33:52 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 10</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day10/</link>
+      <pubDate>Wed, 24 Jan 2024 23:33:52 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day10/</guid>
+      <description>Still digging up stuff today for LaunchYourList.com.
+Trying to wrap my head around wildcard domains in Vercel, by grokking https://static.fun/.</description>
+    </item>
     <item>
       <title>Day 9: Headless CMS Rabbit Hole</title>
       <link>https://mrvfino.github.io/tilblog/docs/day9/</link>
