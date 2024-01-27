@@ -6,8 +6,23 @@
     <description>Recent content in Docs on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 23:49:49 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 07:29:18 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 13: Tree Shaking in JS</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day13/</link>
+      <pubDate>Sat, 27 Jan 2024 07:29:18 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day13/</guid>
+      <description>I like how fancy Tree Shaking sounds, and have been wondering what it means when I passed over it while reading Firebase&amp;rsquo;s JS api documentation. But now I learned that it&amp;rsquo;s simply just an optimization process where dead or unused code is removed to keep things light.</description>
+    </item>
+    <item>
+      <title>Day 12: The Clever YouTube &#34;WATC&#34; Exploit</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day12/</link>
+      <pubDate>Fri, 26 Jan 2024 22:52:16 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day12/</guid>
+      <description>During the infancy of YouTube, a clever internet hoax was made and spread by exploiting the channel redirect link feature of YouTube.
+Removing the h from the www.youtube.com/watch?v={VIDEO_ID} will cause the rest of the query param to be ignored, in turn causing the link to become a channel link instead of a video link. The account/channel it redirects to has since been suspended. If you&amp;rsquo;re all good with creepy stuff, look it up!</description>
+    </item>
     <item>
       <title>Day 11: Using TailwindCSS to Have a Patterned Background</title>
       <link>https://mrvfino.github.io/tilblog/docs/day11/</link>
