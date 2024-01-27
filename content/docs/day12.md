@@ -1,7 +1,7 @@
 +++
 title = 'Day 12: The Clever YouTube "WATC" Exploit'
 date = 2024-01-26T22:52:16+08:00
-draft = true
+draft = false
 +++
 
 During the infancy of YouTube, a clever internet hoax was made and spread by exploiting the channel redirect link feature of YouTube.
