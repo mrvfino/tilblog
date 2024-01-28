@@ -6,8 +6,15 @@
     <description>Recent content on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2024 07:29:18 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 22:54:15 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 14: The Nile River Is Not Exclusive to Egypt</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day14/</link>
+      <pubDate>Sun, 28 Jan 2024 22:54:15 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day14/</guid>
+      <description>This is really funny. All my life I thought that The Nile is just in Egypt, as it turns out it&amp;rsquo;s a river in Africa itself. This gave me the same level of &amp;ldquo;what&amp;rdquo; when I learned that Sydney is not the capital of Australia, but Canberra. Lol.</description>
+    </item>
     <item>
       <title>Day 13: Tree Shaking in JS</title>
       <link>https://mrvfino.github.io/tilblog/docs/day13/</link>
