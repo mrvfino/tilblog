@@ -6,8 +6,16 @@
     <description>Recent content in Docs on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2024 22:54:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 22:59:29 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 15: Obscure Iframe and Next.js SSR Bug</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day15/</link>
+      <pubDate>Mon, 29 Jan 2024 22:59:29 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day15/</guid>
+      <description>For some reason adding &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;styles.css&amp;quot;&amp;gt; on your HTML&amp;rsquo;s &amp;lt;head&amp;gt; and then load it in an iframe owned by a SSR&amp;rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
+This also causes the the SSR page to have styles.css in it&amp;rsquo;s query if it&amp;rsquo;s a dynamic route.</description>
+    </item>
     <item>
       <title>Day 14: The Nile River Is Not Exclusive to Egypt</title>
       <link>https://mrvfino.github.io/tilblog/docs/day14/</link>
