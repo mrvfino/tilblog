@@ -7,7 +7,7 @@
 <meta name="robots" content="index, follow">
 <title>Day 15: Obscure Iframe and Next.js SSR Bug | @mrvfino`s TIL Blog</title>
 <meta name="keywords" content="">
-<meta name="description" content="For some reason adding &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt; on your HTML&rsquo;s &lt;head&gt; and then load it in an iframe owned by a SSR&rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
+<meta name="description" content="For some reason adding &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt; on your HTML&rsquo;s &lt;head&gt; and then load it in an &lt;iframe&gt; owned by an SSR&rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
 This also causes the the SSR page to have styles.css in it&rsquo;s query if it&rsquo;s a dynamic route.">
 <meta name="author" content="Mark Rufino">
 <link rel="canonical" href="https://mrvfino.github.io/tilblog/docs/day15/">
@@ -56,7 +56,7 @@ This also causes the the SSR page to have styles.css in it&rsquo;s query if it&r
 
     </style>
 </noscript><meta property="og:title" content="Day 15: Obscure Iframe and Next.js SSR Bug" />
-<meta property="og:description" content="For some reason adding &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt; on your HTML&rsquo;s &lt;head&gt; and then load it in an iframe owned by a SSR&rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
+<meta property="og:description" content="For some reason adding &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt; on your HTML&rsquo;s &lt;head&gt; and then load it in an &lt;iframe&gt; owned by an SSR&rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
 This also causes the the SSR page to have styles.css in it&rsquo;s query if it&rsquo;s a dynamic route." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://mrvfino.github.io/tilblog/docs/day15/" /><meta property="article:section" content="docs" />
@@ -65,7 +65,7 @@ This also causes the the SSR page to have styles.css in it&rsquo;s query if it&r
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Day 15: Obscure Iframe and Next.js SSR Bug"/>
-<meta name="twitter:description" content="For some reason adding &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt; on your HTML&rsquo;s &lt;head&gt; and then load it in an iframe owned by a SSR&rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
+<meta name="twitter:description" content="For some reason adding &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt; on your HTML&rsquo;s &lt;head&gt; and then load it in an &lt;iframe&gt; owned by an SSR&rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
 This also causes the the SSR page to have styles.css in it&rsquo;s query if it&rsquo;s a dynamic route."/>
 
 
@@ -95,11 +95,11 @@ This also causes the the SSR page to have styles.css in it&rsquo;s query if it&r
   "@type": "BlogPosting",
   "headline": "Day 15: Obscure Iframe and Next.js SSR Bug",
   "name": "Day 15: Obscure Iframe and Next.js SSR Bug",
-  "description": "For some reason adding \u0026lt;link rel=\u0026quot;stylesheet\u0026quot; href=\u0026quot;styles.css\u0026quot;\u0026gt; on your HTML\u0026rsquo;s \u0026lt;head\u0026gt; and then load it in an iframe owned by a SSR\u0026rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.\nThis also causes the the SSR page to have styles.css in it\u0026rsquo;s query if it\u0026rsquo;s a dynamic route.",
+  "description": "For some reason adding \u0026lt;link rel=\u0026quot;stylesheet\u0026quot; href=\u0026quot;styles.css\u0026quot;\u0026gt; on your HTML\u0026rsquo;s \u0026lt;head\u0026gt; and then load it in an \u0026lt;iframe\u0026gt; owned by an SSR\u0026rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.\nThis also causes the the SSR page to have styles.css in it\u0026rsquo;s query if it\u0026rsquo;s a dynamic route.",
   "keywords": [
     
   ],
-  "articleBody": "For some reason adding on your HTML’s and then load it in an iframe owned by a SSR’d page, it will create an odd styles.css file that contains the rest of the code for the HTML.\nThis also causes the the SSR page to have styles.css in it’s query if it’s a dynamic route.\n",
+  "articleBody": "For some reason adding on your HTML’s and then load it in an owned by an SSR’d page, it will create an odd styles.css file that contains the rest of the code for the HTML.\nThis also causes the the SSR page to have styles.css in it’s query if it’s a dynamic route.\n",
   "wordCount" : "58",
   "inLanguage": "en",
   "datePublished": "2024-01-29T22:59:29+08:00",
@@ -179,7 +179,7 @@ This also causes the the SSR page to have styles.css in it&rsquo;s query if it&r
 
 </div>
   </header> 
-  <div class="post-content"><p>For some reason adding <code>&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt;</code> on your HTML&rsquo;s <code>&lt;head&gt;</code> and then load it in an iframe owned by a SSR&rsquo;d page, it will create an odd <code>styles.css</code> file that contains the rest of the code for the HTML.</p>
+  <div class="post-content"><p>For some reason adding <code>&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt;</code> on your HTML&rsquo;s <code>&lt;head&gt;</code> and then load it in an <code>&lt;iframe&gt;</code> owned by an SSR&rsquo;d page, it will create an odd <code>styles.css</code> file that contains the rest of the code for the HTML.</p>
 <p>This also causes the the SSR page to have <code>styles.css</code> in it&rsquo;s query if it&rsquo;s a dynamic route.</p>
 
 

@@ -6,14 +6,22 @@
     <description>Recent content on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jan 2024 22:59:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 23:14:58 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 16: &#34;flatMap&#34; in RxSwift</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day16/</link>
+      <pubDate>Tue, 30 Jan 2024 23:14:58 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day16/</guid>
+      <description>I&amp;rsquo;ve been using this operator for a long time but kinda forgot it because I&amp;rsquo;m pivoting to web, but today there was a necessity to recall it in one of the enterprise apps my team is working on.
+Using &amp;ldquo;flatMap&amp;rdquo; is pretty straightforward. It allows you to connect observables in a sequentially chained manner rather than a nested one, resulting into a single observable to be subscribed to.</description>
+    </item>
     <item>
       <title>Day 15: Obscure Iframe and Next.js SSR Bug</title>
       <link>https://mrvfino.github.io/tilblog/docs/day15/</link>
       <pubDate>Mon, 29 Jan 2024 22:59:29 +0800</pubDate>
       <guid>https://mrvfino.github.io/tilblog/docs/day15/</guid>
-      <description>For some reason adding &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;styles.css&amp;quot;&amp;gt; on your HTML&amp;rsquo;s &amp;lt;head&amp;gt; and then load it in an iframe owned by a SSR&amp;rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
+      <description>For some reason adding &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;styles.css&amp;quot;&amp;gt; on your HTML&amp;rsquo;s &amp;lt;head&amp;gt; and then load it in an &amp;lt;iframe&amp;gt; owned by an SSR&amp;rsquo;d page, it will create an odd styles.css file that contains the rest of the code for the HTML.
 This also causes the the SSR page to have styles.css in it&amp;rsquo;s query if it&amp;rsquo;s a dynamic route.</description>
     </item>
     <item>
