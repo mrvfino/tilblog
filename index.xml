@@ -158,5 +158,16 @@ I learned this from Ben Brode&amp;rsquo;s GDC speech here.</description>
       <description>I just followed this tutorial here by David Hwang.
 Tomorrow I&amp;rsquo;m going to learn about adding images.</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://mrvfino.github.io/tilblog/docs/day25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day25/</guid>
+      <description>Here&amp;rsquo;s a proofread version of your text:
++++ title = &amp;lsquo;Day 19-25: Got Sick, Downshift, MiniSearch, useTransition&amp;rsquo; date = 2024-02-07T22:59:37+08:00 draft = false +++
+I forgot to publish a blog on Friday (Feb 2) and then got sick when I arrived in Manila, so I missed several days of blogging.
+Anyway, while I was out, I learned a lot of new things while implementing a basic search for LaunchYourList.
+Here&amp;rsquo;s a summary of it:</description>
+    </item>
   </channel>
 </rss>
