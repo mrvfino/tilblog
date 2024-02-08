@@ -6,8 +6,18 @@
     <description>Recent content in Docs on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 23:11:46 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 22:59:37 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 19-25: Got Sick, Downshift, MiniSearch, useTransition</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day25/</link>
+      <pubDate>Wed, 07 Feb 2024 22:59:37 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day25/</guid>
+      <description>I forgot to publish a blog on Friday (Feb 2) and then got sick when I arrived in Manila, so I missed several days of blogging.
+Anyway, while I was out, I learned a lot of new things while implementing a basic search for LaunchYourList.
+Here&amp;rsquo;s a summary of it:
+Use Downshift for your search bar auto-completes &amp;amp; suggestions. I thought using it was overkill at first until I realized that we take a lot of small things for granted when it comes to the standard search UX that you and I, as users, frequently experience.</description>
+    </item>
     <item>
       <title>Day 18: Firestore security rules are not filters</title>
       <link>https://mrvfino.github.io/tilblog/docs/day18/</link>
@@ -157,17 +167,6 @@ I learned this from Ben Brode&amp;rsquo;s GDC speech here.</description>
       <guid>https://mrvfino.github.io/tilblog/docs/day0/</guid>
       <description>I just followed this tutorial here by David Hwang.
 Tomorrow I&amp;rsquo;m going to learn about adding images.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://mrvfino.github.io/tilblog/docs/day25/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mrvfino.github.io/tilblog/docs/day25/</guid>
-      <description>Here&amp;rsquo;s a proofread version of your text:
-+++ title = &amp;lsquo;Day 19-25: Got Sick, Downshift, MiniSearch, useTransition&amp;rsquo; date = 2024-02-07T22:59:37+08:00 draft = false +++
-I forgot to publish a blog on Friday (Feb 2) and then got sick when I arrived in Manila, so I missed several days of blogging.
-Anyway, while I was out, I learned a lot of new things while implementing a basic search for LaunchYourList.
-Here&amp;rsquo;s a summary of it:</description>
     </item>
   </channel>
 </rss>
