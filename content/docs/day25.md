@@ -1,5 +1,3 @@
-Here's a proofread version of your text:
-
 +++
 title = 'Day 19-25: Got Sick, Downshift, MiniSearch, useTransition'
 date = 2024-02-07T22:59:37+08:00
