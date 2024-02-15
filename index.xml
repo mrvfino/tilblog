@@ -6,8 +6,17 @@
     <description>Recent content on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Feb 2024 22:59:37 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 08:06:29 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 26: Lessons from my Hiatus</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day26/</link>
+      <pubDate>Thu, 15 Feb 2024 08:06:29 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day26/</guid>
+      <description>During July last year, I took a personal hiatus and went to Manila, where I stayed for almost 6 months.
+I had two major goals while I was there. My primary goal was to finish and launch at least one SAAS idea I had. The other goal was to consistently go to the gym 5 times a week and lift weights. Guess which one failed hard!
+My main goal failed&amp;hellip; I ended up losing $10,000 in cash and other forms of assets, with nothing to show for it.</description>
+    </item>
     <item>
       <title>Day 19-25: Got Sick, Downshift, MiniSearch, useTransition</title>
       <link>https://mrvfino.github.io/tilblog/docs/day25/</link>
