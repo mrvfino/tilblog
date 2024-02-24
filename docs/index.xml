@@ -6,8 +6,15 @@
     <description>Recent content in Docs on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Feb 2024 08:06:29 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 21:54:19 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 27: Discovering and Fixing an Alamofire/Moya Bug</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day27/</link>
+      <pubDate>Sat, 24 Feb 2024 21:54:19 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day27/</guid>
+      <description>Test</description>
+    </item>
     <item>
       <title>Day 26: Lessons from my Hiatus</title>
       <link>https://mrvfino.github.io/tilblog/docs/day26/</link>
