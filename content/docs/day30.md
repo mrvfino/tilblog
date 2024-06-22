@@ -1,5 +1,5 @@
 +++
-title = 'Day30: Dynamic Tailwind CSS Colors in NextJS'
+title = 'Day 30: Dynamic Tailwind CSS Colors in NextJS'
 date = 2024-03-23T20:02:44+08:00
 draft = false
 +++
