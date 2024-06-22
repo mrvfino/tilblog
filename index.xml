@@ -6,14 +6,39 @@
     <description>Recent content on @mrvfino`s TIL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Feb 2024 21:54:19 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 20:02:44 +0800</lastBuildDate>
     <atom:link href="https://mrvfino.github.io/tilblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Day 27: Discovering and Fixing an Alamofire/Moya Bug</title>
+      <title>Day30: Dynamic Tailwind CSS Colors in NextJS</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day30/</link>
+      <pubDate>Sat, 23 Mar 2024 20:02:44 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day30/</guid>
+      <description>Learned how to implement dynamic colors for Tailwind CSS in NextJS
+put your variable in the config add a style tag with this: &amp;lt;style&amp;gt;{` :root { --primary60: ${theme.primary60 ?? &amp;#34;var(--background)&amp;#34;}; --secondary30: ${theme.secondary30 ?? &amp;#34;var(--secondary)&amp;#34;}; --accent10: ${theme.accent10 ?? &amp;#34;var(--primary)&amp;#34;}; } `}&amp;lt;/style&amp;gt; </description>
+    </item>
+    <item>
+      <title>Day 29: Multitenancy With NextJS</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day29/</link>
+      <pubDate>Sat, 09 Mar 2024 12:30:22 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day29/</guid>
+      <description>What you&amp;rsquo;ll need:
+checkout platforms starter kit have a db for your domains to store site data, where the domains will be the primary key secure an API key, to allow users to add custom domains for their sites () copy the middleware code from starter kit and costumize it use the [domain]/[slug] pattern </description>
+    </item>
+    <item>
+      <title>Day 28: Coaching/QA Layer for AI Endpoint</title>
+      <link>https://mrvfino.github.io/tilblog/docs/day28/</link>
+      <pubDate>Sun, 25 Feb 2024 19:48:26 +0800</pubDate>
+      <guid>https://mrvfino.github.io/tilblog/docs/day28/</guid>
+      <description>Taking inspiration from how GPT was trained, I think it&amp;rsquo;s useful to implement an &amp;ldquo;coaching&amp;rdquo; / &amp;ldquo;qa&amp;rdquo; prompt layer that checks the output of you main prompt. If you need more consistency, then you can just add another layer!</description>
+    </item>
+    <item>
+      <title>Day 27: Finding and Working Around a Bug in Alamofire (or Moya?)</title>
       <link>https://mrvfino.github.io/tilblog/docs/day27/</link>
       <pubDate>Sat, 24 Feb 2024 21:54:19 +0800</pubDate>
       <guid>https://mrvfino.github.io/tilblog/docs/day27/</guid>
-      <description>Test</description>
+      <description>While working on a batch POST feature on an app, I encountered an odd bug while using (Moya)[https://github.com/Moya/Moya]. It&amp;rsquo;s easier to understand when explained step by step:
+Goal: The goal is to call multiple POST requests on an endpoint.
+Create an array of Observables for each POST requests. Combine merge the Observables using &amp;ldquo;.merge&amp;rdquo; Trigger the cancellable. If you&amp;rsquo;re thinking that it would submit each individually, to my surprise it didn&amp;rsquo;t.</description>
     </item>
     <item>
       <title>Day 26: Lessons from my Hiatus</title>
